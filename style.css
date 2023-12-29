@@ -1,0 +1,39 @@
+body{ background-color: rgb(107, 131, 123);
+}
+
+.Participer { 
+    background-color: #0c0c0c;
+    color:rgb(107, 131, 123) ;
+    padding:15px ;
+    border-radius: 0.625rem;
+    font-size:19px ;
+    cursor: pointer;
+}
+.form{
+    display:flex;
+    margin: 40px  45px;
+    border: 2px solid #000000;
+    border-radius:0.625rem; 
+    padding: 5%;
+   }
+   .form input[type="text"]{
+    flex: 1;
+    padding: 5px 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    font-size: 16px;
+    
+
+}
+.form label{
+    width: 225px; 
+}
+    .element{
+    display:flex;
+    align-items: center;
+    margin:10px;
+    font-size:17px;
+    }
+.img {
+    height: 350px; width: 350px;
+}
